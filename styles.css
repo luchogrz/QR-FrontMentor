@@ -1,0 +1,42 @@
+body {
+    background-color: #F2F2F2;
+    font-family: "Outfit", sans-serif;
+}
+.container {
+    background-color: white;
+    width: 320px;
+    height: 497px;
+    margin: 152px 560px 151px 560px;
+    border-radius: 10px;
+    
+}
+
+img {
+    margin: 16px;
+    height: 288px;
+    width: 288px;
+    border-radius: 10px;
+   
+}
+
+.texto {
+    
+     text-align: center;
+    height: 129px;
+    width: 288px;
+    padding-left: 16px;
+    
+}
+
+
+h1 {
+    height: 56px;
+    font-size: 22px;
+    color: #040424;
+}
+
+p {
+
+    
+    color: grey;
+}
